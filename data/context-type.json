@@ -1,0 +1,258 @@
+{
+    "snssai": {
+        "type": "Property",
+        "values": [
+            [
+                "1:223344",
+                "2022-12-06T09:18:31.697Z"
+            ],
+            [
+                "1:223344",
+                "2022-12-06T09:18:31.697Z"
+            ]
+        ]
+    },
+    "dnn": {
+        "type": "Property",
+        "values": [
+            [
+                "dnn.dreamNW01",
+                "2022-12-06T09:18:31.673Z"
+            ],
+            [
+                "dnn.dreamNW01",
+                "2022-12-06T09:18:31.673Z"
+            ]
+        ]
+    },
+    "end_time": {
+        "type": "Property",
+        "values": [
+            [
+                "221130041950",
+                "2022-12-06T09:18:31.511Z"
+            ],
+            [
+                "221130041950",
+                "2022-12-06T09:18:31.511Z"
+            ]
+        ]
+    },
+    "jsonString": "{\n  \"snssai\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"1:223344\",\n        \"2022-12-06T09:18:31.697Z\"\n      ],\n      [\n        \"1:223344\",\n        \"2022-12-06T09:18:31.697Z\"\n      ]\n    ]\n  },\n  \"dnn\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"dnn.dreamNW01\",\n        \"2022-12-06T09:18:31.673Z\"\n      ],\n      [\n        \"dnn.dreamNW01\",\n        \"2022-12-06T09:18:31.673Z\"\n      ]\n    ]\n  },\n  \"end_time\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"221130041950\",\n        \"2022-12-06T09:18:31.511Z\"\n      ],\n      [\n        \"221130041950\",\n        \"2022-12-06T09:18:31.511Z\"\n      ]\n    ]\n  },\n  \"session_id\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"5\",\n        \"2022-12-06T09:18:31.459Z\"\n      ],\n      [\n        \"5\",\n        \"2022-12-06T09:18:31.459Z\"\n      ]\n    ]\n  },\n  \"imsi\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"123123123123123\",\n        \"2022-12-06T09:18:31.423Z\"\n      ],\n      [\n        \"123123123123123\",\n        \"2022-12-06T09:18:31.423Z\"\n      ]\n    ]\n  },\n  \"file_datetime\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"20221130041950\",\n        \"2022-12-06T09:18:31.441Z\"\n      ],\n      [\n        \"20221130041950\",\n        \"2022-12-06T09:18:31.441Z\"\n      ]\n    ]\n  },\n  \"type\": \"vCoreTest\",\n  \"dl_mesurement\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"248186\",\n        \"2022-12-06T09:18:31.536Z\"\n      ],\n      [\n        \"248186\",\n        \"2022-12-06T09:18:31.536Z\"\n      ]\n    ]\n  },\n  \"class_no\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"174\",\n        \"2022-12-06T09:18:31.733Z\"\n      ],\n      [\n        \"174\",\n        \"2022-12-06T09:18:31.733Z\"\n      ]\n    ]\n  },\n  \"group_no\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"64\",\n        \"2022-12-06T09:18:31.753Z\"\n      ],\n      [\n        \"64\",\n        \"2022-12-06T09:18:31.753Z\"\n      ]\n    ]\n  },\n  \"time_of_last_packet\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"\",\n        \"2022-12-06T09:18:31.653Z\"\n      ],\n      [\n        \"\",\n        \"2022-12-06T09:18:31.653Z\"\n      ]\n    ]\n  },\n  \"ul_mesurement\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"601515\",\n        \"2022-12-06T09:18:31.557Z\"\n      ],\n      [\n        \"601515\",\n        \"2022-12-06T09:18:31.557Z\"\n      ]\n    ]\n  },\n  \"start_time\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"221130041450\",\n        \"2022-12-06T09:18:31.488Z\"\n      ],\n      [\n        \"221130041450\",\n        \"2022-12-06T09:18:31.488Z\"\n      ]\n    ]\n  },\n  \"time_of_first_packet\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"\",\n        \"2022-12-06T09:18:31.629Z\"\n      ],\n      [\n        \"\",\n        \"2022-12-06T09:18:31.629Z\"\n      ]\n    ]\n  },\n  \"mdn\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"01010040005\",\n        \"2022-12-06T09:18:31.715Z\"\n      ],\n      [\n        \"01010040005\",\n        \"2022-12-06T09:18:31.715Z\"\n      ]\n    ]\n  },\n  \"ue_ip\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"127.0.0.1\",\n        \"2022-12-06T09:18:31.579Z\"\n      ],\n      [\n        \"127.0.0.1\",\n        \"2022-12-06T09:18:31.579Z\"\n      ]\n    ]\n  },\n  \"id\": \"urn:ngsi-ld:vCoreTest:1111\",\n  \"location_info\": {\n    \"type\": \"Property\",\n    \"values\": [\n      [\n        \"59689\",\n        \"2022-12-06T09:18:31.604Z\"\n      ],\n      [\n        \"59689\",\n        \"2022-12-06T09:18:31.604Z\"\n      ]\n    ]\n  }\n}",
+    "session_id": {
+        "type": "Property",
+        "values": [
+            [
+                "5",
+                "2022-12-06T09:18:31.459Z"
+            ],
+            [
+                "5",
+                "2022-12-06T09:18:31.459Z"
+            ]
+        ]
+    },
+    "imsi": {
+        "type": "Property",
+        "values": [
+            [
+                "123123123123123",
+                "2022-12-06T09:18:31.423Z"
+            ],
+            [
+                "123123123123123",
+                "2022-12-06T09:18:31.423Z"
+            ]
+        ]
+    },
+    "file_datetime": {
+        "type": "Property",
+        "values": [
+            [
+                "20221130041950",
+                "2022-12-06T09:18:31.441Z"
+            ],
+            [
+                "20221130041950",
+                "2022-12-06T09:18:31.441Z"
+            ]
+        ]
+    },
+    "type": "vCoreTest",
+    "dl_mesurement": {
+        "type": "Property",
+        "values": [
+            [
+                "248186",
+                "2022-12-06T09:18:31.536Z"
+            ],
+            [
+                "248186",
+                "2022-12-06T09:18:31.536Z"
+            ]
+        ]
+    },
+    "class_no": {
+        "type": "Property",
+        "values": [
+            [
+                "174",
+                "2022-12-06T09:18:31.733Z"
+            ],
+            [
+                "174",
+                "2022-12-06T09:18:31.733Z"
+            ]
+        ]
+    },
+    "group_no": {
+        "type": "Property",
+        "values": [
+            [
+                "64",
+                "2022-12-06T09:18:31.753Z"
+            ],
+            [
+                "64",
+                "2022-12-06T09:18:31.753Z"
+            ]
+        ]
+    },
+    "time_of_last_packet": {
+        "type": "Property",
+        "values": [
+            [
+                "",
+                "2022-12-06T09:18:31.653Z"
+            ],
+            [
+                "",
+                "2022-12-06T09:18:31.653Z"
+            ]
+        ]
+    },
+    "ul_mesurement": {
+        "type": "Property",
+        "values": [
+            [
+                "601515",
+                "2022-12-06T09:18:31.557Z"
+            ],
+            [
+                "601515",
+                "2022-12-06T09:18:31.557Z"
+            ]
+        ]
+    },
+    "start_time": {
+        "type": "Property",
+        "values": [
+            [
+                "221130041450",
+                "2022-12-06T09:18:31.488Z"
+            ],
+            [
+                "221130041450",
+                "2022-12-06T09:18:31.488Z"
+            ]
+        ]
+    },
+    "time_of_first_packet": {
+        "type": "Property",
+        "values": [
+            [
+                "",
+                "2022-12-06T09:18:31.629Z"
+            ],
+            [
+                "",
+                "2022-12-06T09:18:31.629Z"
+            ]
+        ]
+    },
+    "mdn": {
+        "type": "Property",
+        "values": [
+            [
+                "01010040005",
+                "2022-12-06T09:18:31.715Z"
+            ],
+            [
+                "01010040005",
+                "2022-12-06T09:18:31.715Z"
+            ]
+        ]
+    },
+    "ue_ip": {
+        "type": "Property",
+        "values": [
+            [
+                "127.0.0.1",
+                "2022-12-06T09:18:31.579Z"
+            ],
+            [
+                "127.0.0.1",
+                "2022-12-06T09:18:31.579Z"
+            ]
+        ]
+    },
+    "temporalDomain": {
+        "name": null,
+        "id": "urn:ngsi-ld:vCoreTest:1111",
+        "type": null,
+        "modifiedTime": null,
+        "createdTime": null,
+        "value": null,
+        "lastN": 10,
+        "updateCount": null,
+        "q": null,
+        "limit": 0,
+        "offest": 0,
+        "options": null,
+        "count": null,
+        "local": null,
+        "startDate": null,
+        "startHour": null,
+        "startMin": null,
+        "startTime": null,
+        "endDate": null,
+        "endHour": null,
+        "endMin": null,
+        "endTime": null,
+        "userLevelId": null,
+        "levelId": null,
+        "searchType": null,
+        "searchDateType": null,
+        "searchText": null,
+        "searchStatus": null,
+        "userId": null,
+        "userName": null,
+        "search_type": null,
+        "search_keyword": null,
+        "orderBy": null,
+        "titleName": null,
+        "group_no": null,
+        "page_type": null,
+        "companyId": null,
+        "loginId": null
+    },
+    "id": "urn:ngsi-ld:vCoreTest:1111",
+    "temporalMap": {
+        "lastN": 10,
+        "id": "urn:ngsi-ld:vCoreTest:1111",
+        "type": "vCoreTest"
+    },
+    "location_info": {
+        "type": "Property",
+        "values": [
+            [
+                "59689",
+                "2022-12-06T09:18:31.604Z"
+            ],
+            [
+                "59689",
+                "2022-12-06T09:18:31.604Z"
+            ]
+        ]
+    }
+}
