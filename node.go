@@ -134,7 +134,7 @@ func (node *Node) String() string {
 		case StringNode:
 			if vv, ok := node.Value.(string); ok {
 				if len(vv) > 100 {
-					v = `"` + vv[:100] + `" ...`
+					v = `"` + vv[:100] + `..."`
 
 				} else {
 					v = `"` + vv + `"`
